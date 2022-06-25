@@ -2,6 +2,8 @@ import java.util.Scanner;
 
 class PositiveOrNegative{
 
+    // normal approach
+
     // public static void main(String[] args){
 
     //     Scanner sc = new Scanner(System.in);
@@ -21,6 +23,8 @@ class PositiveOrNegative{
 
     // }
 
+    // ternery approach
+    
     public static void main(String[] args){
 
         Scanner sc = new Scanner(System.in);
